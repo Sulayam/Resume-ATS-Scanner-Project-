@@ -1,6 +1,3 @@
-
-Sure, here's a detailed description for the README file:
-
 ATS Scanner for Resumes using Data Analytics
 Overview
 This project is an Automated Tracking System (ATS) Scanner designed to evaluate and optimize resumes using advanced data analytics techniques. Built in Jupyter Notebook, the tool aims to help job seekers enhance their resumes to pass through ATS filters and improve their chances of landing job interviews.
