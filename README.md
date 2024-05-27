@@ -17,17 +17,6 @@ regex: For pattern matching and text extraction.
 scikit-learn: For implementing machine learning models.
 Jupyter Notebook: Provides an interactive environment for conducting the analysis.
 Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/ats-scanner.git
-Navigate to the project directory:
-bash
-Copy code
-cd ats-scanner
-Install the required dependencies:
-bash
-Copy code
 pip install -r requirements.txt
 Usage
 Open the Jupyter Notebook:
@@ -39,7 +28,6 @@ bash
 Copy code
 ats_scanner.ipynb
 Follow the instructions in the notebook to upload your resume and job description for analysis.
-Contributing
 We welcome contributions to enhance the features and functionality of this project. To contribute, please fork the repository, create a new branch, and submit a pull request with your changes.
 
 License
